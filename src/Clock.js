@@ -16,4 +16,5 @@ function Clock() {
 
   return <div>{time.toString()}</div>;
 }
+
 export default Clock;
